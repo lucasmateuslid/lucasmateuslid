@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 #
 - 🌱 Estou estudando HTML, CSS E Javascript
 - 📫 Como entrar em contato comigo: contatoedest@gmail.com
-- 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Dono da L4U Community & Design
+- 💬 Pergunte me qualquer coisa ...
 
 <div>
   <h3> Estudando: </h3>
