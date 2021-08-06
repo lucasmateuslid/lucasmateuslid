@@ -74,4 +74,4 @@ object **lucasmateuslid** {
 #
 
 
-![Snake animation](https://github.com/lucasmateuslid/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasmateuslid/lucasmateuslid/blob/output/github-contribution-grid-snake.svg)
