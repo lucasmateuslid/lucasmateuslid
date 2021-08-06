@@ -1,4 +1,4 @@
-### Olá!!! Sou Lucas Mateus - lucasmateuslid 👋
+### Olá Devs!!!👋
 
 <!--
 Here are some ideas to get you started:
@@ -12,13 +12,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+object **Lucas Mateus** {
+ val name = "Lucas Mateus de Lima Paulo"
+ val acknowledgements = "FrontEnd"
+ 
+ val primarySkillset = "Minhas Hablidades"
+ val languages = listOf("HTML", "CSS", "JavaScript", "SASS", "BOOTSTRAP") 
+ 
+ val contactCenter = "Entre em contato comigo"
+ val contactTo = "contatoedest@gmail.com"
+
+}
+```
 #
-- 🌱 Estou estudando HTML, CSS E Javascript
-- 📫 Como entrar em contato comigo: contatoedest@gmail.com
-- ⚡ Curiosidade: Dono da L4U Community & Design
-- 💬 Pergunte me qualquer coisa ...
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div>
   <h3> Estudando: </h3>
