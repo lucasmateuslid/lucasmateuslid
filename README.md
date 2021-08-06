@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🌱 Estou estudando HTML, CSS E Javascript
 - 📫 Como entrar em contato comigo: contatoedest@gmail.com
 - 😄 Pronomes: ele/dele
+- ⚡ Curiosidade: Dono da L4U Community & Design
+
 <div>
   <h3> Estudando: </h3>
   <img align="center" height="30" widht"40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
