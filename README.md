@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar ótimas soluções tecnológicas e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
